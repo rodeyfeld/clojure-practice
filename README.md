@@ -1,10 +1,10 @@
 # clojure-practice
 
-A Clojure library designed to ... well, that part is up to you.
+Clojure solutions for hackerrank/codewars/leetcode.
 
 ## Usage
 
-FIXME
+Load into Clojure REPL and execute. Test cases to be created soon.
 
 ## License
 
