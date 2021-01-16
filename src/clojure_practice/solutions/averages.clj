@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.averages)
+(ns clojure-practice.solutions.averages)
 
 (defn better-than-average
     [classPoints yourPoints]

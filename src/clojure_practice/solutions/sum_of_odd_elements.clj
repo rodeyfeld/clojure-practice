@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.sum-of-odd-elements)
+(ns clojure-practice.solutions.sum-of-odd-elements)
 
 (defn sum-of-odd-elements
     "

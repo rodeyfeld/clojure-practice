@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.filter-position-in-list)
+(ns clojure-practice.solutions.filter-position-in-list)
 
 (defn filter-position-in-list
     "

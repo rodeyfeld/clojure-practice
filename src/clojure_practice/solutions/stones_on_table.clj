@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.stones-on-table)
+(ns clojure-practice.solutions.stones-on-table)
 
 (defn stones-on-table
     [lst]

@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.list-length)
+(ns clojure-practice.solutions.list-length)
 
 (defn list-length
 [lst]

@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.pascal-triangle)
+(ns clojure-practice.solutions.pascal-triangle)
 
 (defn factorial
     [n]

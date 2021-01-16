@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.string-mingling)
+(ns clojure-practice.solutions.string-mingling)
 
 (defn string-mingle
     "

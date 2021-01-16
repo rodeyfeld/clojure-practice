@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.filter-array)
+(ns clojure-practice.solutions.filter-array)
 
 (defn filter-array
     "
@@ -15,5 +15,7 @@
         (filter-array num (rest lst))
         )
     )
+
+
 
 

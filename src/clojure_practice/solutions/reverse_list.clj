@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.reverse-list)
+(ns clojure-practice.solutions.reverse-list)
 
 (defn reverse-list
     [lst]

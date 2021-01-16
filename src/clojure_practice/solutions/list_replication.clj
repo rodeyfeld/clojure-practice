@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.list-replication)
+(ns clojure-practice.solutions.list-replication)
 
 (defn printer
     "

@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.update-list)
+(ns clojure-practice.solutions.update-list)
 
 (defn update-list
     "

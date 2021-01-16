@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.rock-paper-scissor-checker)
+(ns clojure-practice.solutions.rock-paper-scissor-checker)
 
 (def counters {
      :rock "scissors"

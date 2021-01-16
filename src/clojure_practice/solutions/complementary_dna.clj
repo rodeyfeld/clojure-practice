@@ -1,4 +1,4 @@
-(ns clojure-practice.hackerrank.complementary-dna)
+(ns clojure-practice.solutions.complementary-dna)
 
 (defn complementary-dna
     [lst]
